@@ -6,7 +6,18 @@ The Robust Density-Aware Distance (RDAD) function is a mathematical function tha
 
 ## How to cite?
 
+C. Siu, G. Samorodnitsky, C. Yu, and A. Yao, Dectection of small holes by the scale-invariant {Robust Density-Aware Distance (RDAD)} filtration, 2022.
 
+The bibtex entry is as follows.
+
+`@misc{siu2022_RDAD,
+      title={Detection of Small Holes by the Scale-Invariant Robust Density-Aware Distance {(RDAD)} Filtration}, 
+      author={Chunyin Siu and Gennady Samorodnitsky and Christina Yu and Andrey Yao},
+      year={2022},
+      eprint={2204.07821},
+      archivePrefix={arXiv},
+      primaryClass={math.ST}
+}`
 
 ## What's in here?
 
@@ -39,3 +50,4 @@ Just copy `RDAD.py` to your directory and import it to your codes. Details on us
 ## History
 
 220409 Repo made public.
+220418 added bibliography entry
