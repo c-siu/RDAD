@@ -8,6 +8,8 @@ The Robust Density-Aware Distance (RDAD) function is a mathematical function tha
 
 C. Siu, G. Samorodnitsky, C. Yu, and A. Yao, Dectection of small holes by the scale-invariant {Robust Density-Aware Distance (RDAD)} filtration, 2022.
 
+The link to the arxiv preprint is [https://arxiv.org/abs/2204.07821](https://arxiv.org/abs/2204.07821)
+
 The bibtex entry is as follows.
 
 `@misc{siu2022_RDAD,
