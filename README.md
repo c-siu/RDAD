@@ -41,9 +41,9 @@ Just copy `RDAD.py` to your directory and import it to your codes. Details on us
 
 ## Authors and Contact
 
-* [corresponding author] Chunyin Siu (Alex), Center of Applied Mathematics, Cornell University, NY, USA (cs2323 [at] cornell.edu)
+* [corresponding author] Chunyin Siu (Alex), Center for Applied Mathematics, Cornell University, NY, USA (cs2323 [at] cornell.edu)
 
-* Gennady Samorodnitsky (Alex), School of Operations Research and Information Engineering, Cornell University, NY, USA (gs18 [at] cornell.edu)
+* Gennady Samorodnitsky, School of Operations Research and Information Engineering, Cornell University, NY, USA (gs18 [at] cornell.edu)
 
 * Christina Lee Yu, School of Operations Research and Information Engineering, Cornell University, NY, USA (cleeyu [at] cornell.edu)
 
